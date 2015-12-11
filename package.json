@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-dj",
+  "version": "1.0.0",
+  "description": "get random Star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morandj/starwars-names-dj.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Dominic J. Moran <dominic.moran@gmail.com> (http://www.dominicmoran.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morandj/starwars-names-dj/issues"
+  },
+  "homepage": "https://github.com/morandj/starwars-names-dj#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
